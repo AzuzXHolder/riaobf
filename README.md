@@ -3,15 +3,15 @@ this is a modified [RBXLuaObfuscator](https://github.com/kosuke14/RBXLuaObfuscat
 
 ### Script
 ```lua
-local obfuscator = loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/RBXLuaObfuscator/main/source.lua"))()
+local obfuscator = loadstring(game:HttpGet("https://raw.githubusercontent.com/AzuzXHolder/riaobf/refs/heads/main/source.lua"))()
 
 obfuscator(
  [===[
   --// Paste your source here
   print("Hello World!")
  ]===],
- "Taurus_", --// Custom Variable
- "Protected" --// WaterMark
+ "GayHorse_", --// Custom Variable
+ "ProtectWithCondom" --// WaterMark
 )
 ```
 **NOTE**: will be copied to clipboard after executed!
